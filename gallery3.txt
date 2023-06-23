@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>gallery</title>
+</head>
+<body>
+<image src="class.jpg"height="300" width="400">
+
+<image src="1.jpg"height="300" width="400">
+
+<image src="class2.jpg"height="300" width="400">
+
+<image src="class3.jpg"height="300" width="400">
+
+<image src="class4.jpg"height="300" width="400">
+
+<image src="student.jpg"height="300" width="400">
+
+<image src="office.jpg"height="300" width="400">
+
+<image src="images4.jpg"height="300" width="400">
+
+<image src="class6.jpg"height="300" width="400">
+
+</body>
+</html>
